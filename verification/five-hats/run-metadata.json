@@ -1,0 +1,17 @@
+{
+  "started_at": "2026-10-26T19:39:49.862070+00:00",
+  "pid": 62725,
+  "solver": "SCIP",
+  "solver_version": "10.0.2",
+  "time_limit_seconds": 14340.0,
+  "solver_memory_limit_mb": 2048.0,
+  "binary_variables": 300,
+  "continuous_variables": 900,
+  "model_scope": "unrestricted deterministic classical five-hat strategies; asymmetric pairs allowed",
+  "symmetry_reduction": "restricted-growth Alice labels removes permutations of Alice own hat positions only",
+  "external_classical_ceiling": 369,
+  "seed_wins_verified_exactly": 358,
+  "seed_sha256": "68f0e22672e19f94c2b0be78b30113eff47129112ee14203fc776f69a5af68b2",
+  "runner_sha256": "dfb3bfc9c77c6b09882b4869f8a56bec19272db0460e83b73036ad2a0104e5a2",
+  "upper_bound_trust": "Solver floating-point bound; not yet independently certified or Lean-verified."
+}

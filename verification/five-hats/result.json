@@ -1,0 +1,18 @@
+{
+  "updated_at": "2026-10-26T22:07:20.793193+00:00",
+  "pid": 62725,
+  "elapsed_wall_seconds": 8850.931139945984,
+  "solver_seconds": 8850.930333,
+  "run_state": "finished",
+  "solver_status": "optimal",
+  "processed_nodes": 445277,
+  "maximum_rss_mib": 469.01953125,
+  "mathematical_upper_bound_independently_certified": false,
+  "lean_verified": false,
+  "solver_upper_bound": 358.0,
+  "solver_integer_upper_bound": 358,
+  "best_classical_wins_verified_exactly": 358,
+  "best_classical_probability": 0.349609375,
+  "solver_reports_exact_optimum": true,
+  "solver_reports_quantum_separation_bound": true
+}

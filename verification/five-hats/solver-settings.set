@@ -1,0 +1,26 @@
+# SCIP version 10.0.2
+
+# frequency for displaying node information lines
+# [type: int, advanced: FALSE, range: [-1,2147483647], default: 100]
+display/freq = 1000
+
+# maximal time in seconds to run
+# [type: real, advanced: FALSE, range: [0,1e+20], default: 1e+20]
+limits/time = 14340
+
+# maximal memory usage in MB; reported memory usage is lower than real memory usage!
+# [type: real, advanced: FALSE, range: [0,8796093022207], default: 8796093022207]
+limits/memory = 2048
+
+# number of threads used for solving the LP (0: automatic)
+# [type: int, advanced: TRUE, range: [0,64], default: 0]
+lp/threads = 1
+
+# feasibility tolerance for constraints
+# [type: real, advanced: FALSE, range: [1e-17,0.001], default: 1e-06]
+numerics/feastol = 1e-08
+
+# the maximum number of threads used during parallel solve
+# [type: int, advanced: FALSE, range: [0,64], default: 8]
+parallel/maxnthreads = 1
+

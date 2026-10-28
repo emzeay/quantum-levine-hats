@@ -1,0 +1,10 @@
+.lake/
+*.olean
+*.ilean
+
+demo/.venv/
+demo/__pycache__/
+demo/levine_hats_demo/__pycache__/
+
+__pycache__/
+*.pyc
